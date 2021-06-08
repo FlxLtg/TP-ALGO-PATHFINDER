@@ -1,0 +1,12 @@
+ #playButton {
+     position:absolute;
+     top:0;
+     left:0;
+     margin-top: 5px;
+     margin-left: 10px
+ }
+
+#canvas {
+      position:absolute;
+      top:30px;
+ }
